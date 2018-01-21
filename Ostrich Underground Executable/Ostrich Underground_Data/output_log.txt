@@ -1,0 +1,39 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.672 seconds
+Platform assembly: H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: H:\GAME DEVELOPMENT\GAME JAMS\Nordic Game Jam 2016 Ostrich Underground\Ostrich Underground Executable\Ostrich Underground_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 144Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.654383 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: a44 -> priority: 1 
+  Thread -> id: 1a7c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 18.591101 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 10319.
+Total: 2.068276 ms (FindLiveObjects: 0.334042 ms CreateObjectMapping: 0.178597 ms MarkObjects: 1.527524 ms  DeleteObjects: 0.027403 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.678980 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 10319.
+Total: 2.208130 ms (FindLiveObjects: 0.447673 ms CreateObjectMapping: 0.109378 ms MarkObjects: 1.626508 ms  DeleteObjects: 0.022206 ms)
+
